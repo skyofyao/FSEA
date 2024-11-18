@@ -1,0 +1,80 @@
+<annotation>
+	<folder>WH_data</folder>
+	<filename>00342.jpg</filename>
+	<source>
+		<database>WH Data</database>
+		<annotation>WH</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>WH</name>
+	</owner>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>Buckweed</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>882</ymin>
+			<xmax>3455</xmax>
+			<ymax>4596</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mirror grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1134</xmin>
+			<ymin>2235</ymin>
+			<xmax>1140</xmax>
+			<ymax>2332</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barnyard grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>925</xmin>
+			<ymin>1163</ymin>
+			<xmax>1352</xmax>
+			<ymax>1398</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mirror grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2588</xmin>
+			<ymin>586</ymin>
+			<xmax>2610</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barnyard grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2120</xmin>
+			<ymin>3798</ymin>
+			<xmax>2968</xmax>
+			<ymax>4190</ymax>
+		</bndbox>
+	</object>
+</annotation>

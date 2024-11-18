@@ -1,0 +1,74 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>00743.jpg</filename>
+	<path>D:\学习资料重要\数据集\杂草数据\Dataset\VOC2007\JPEGImages\00743.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mirror grass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2255</xmin>
+			<ymin>1152</ymin>
+			<xmax>2417</xmax>
+			<ymax>1290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mirror grass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1967</xmin>
+			<ymin>2102</ymin>
+			<xmax>2095</xmax>
+			<ymax>2234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mirror grass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2539</xmin>
+			<ymin>1731</ymin>
+			<xmax>2617</xmax>
+			<ymax>1887</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mirror grass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2105</xmin>
+			<ymin>2465</ymin>
+			<xmax>2261</xmax>
+			<ymax>2624</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mirror grass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>970</xmin>
+			<ymin>2212</ymin>
+			<xmax>1145</xmax>
+			<ymax>2346</ymax>
+		</bndbox>
+	</object>
+</annotation>

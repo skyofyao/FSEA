@@ -1,0 +1,92 @@
+<annotation>
+	<folder>WH_data</folder>
+	<filename>00300.jpg</filename>
+	<source>
+		<database>WH Data</database>
+		<annotation>WH</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>WH</name>
+	</owner>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>Barnyard grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>2470</ymin>
+			<xmax>2422</xmax>
+			<ymax>4602</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barnyard grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>664</ymin>
+			<xmax>1682</xmax>
+			<ymax>2272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barnyard grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>13</ymin>
+			<xmax>1892</xmax>
+			<ymax>1645</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barnyard grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1657</xmin>
+			<ymin>1186</ymin>
+			<xmax>2298</xmax>
+			<ymax>1935</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barnyard grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1865</xmin>
+			<ymin>1256</ymin>
+			<xmax>3438</xmax>
+			<ymax>2959</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barnyard grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2552</xmin>
+			<ymin>1656</ymin>
+			<xmax>3446</xmax>
+			<ymax>3313</ymax>
+		</bndbox>
+	</object>
+</annotation>
